@@ -13,4 +13,4 @@ armitage login data set by default :
 
 Notes : your git metasploit must be in /usr/share/metaploit-framework
 
-![Alt text](https://github.com/peterpt/msf.git.database/blob/main/Armitage_001.png "Armitage"
+![Alt text](https://github.com/peterpt/msf.git.database/blob/main/Armitage_001.png "Armitage")
