@@ -14,3 +14,9 @@ armitage login data set by default :
 Notes : your git metasploit must be in /usr/share/metaploit-framework
 
 ![Alt text](https://github.com/peterpt/msf.git.database/blob/main/Armitage_001.png "Armitage")
+
+# to change the default password
+- you must edit line 75 in msfdb and change msf3 to whatever you want inside the double cotes
+![Alt text](https://github.com/peterpt/msf.git.database/blob/main/pass.png "Change Password")
+
+  
